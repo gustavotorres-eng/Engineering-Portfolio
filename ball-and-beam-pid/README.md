@@ -89,7 +89,7 @@ Install these libraries via Arduino Library Manager:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/gustavotorres-eng/ball-beam-pid.git
+git clone https://github.com/gustavotorr/ball-beam-pid.git
 ```
 
 2. Open `Ball_On_Beam_PID.ino` in Arduino IDE
@@ -229,7 +229,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@gustavotorres-eng](https://github.com/gustavotorres-eng)
+- GitHub: [@gustavotorr](https://github.com/gustavotorr)
 - LinkedIn: [Gustavo Torres](https://www.linkedin.com/in/gustavo-torres111/)
 
 ## 🙏 Acknowledgments
