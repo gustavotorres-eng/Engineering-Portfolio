@@ -230,7 +230,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/Tavoracho)
-- LinkedIn: [Gustavo Torres]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gustavo-torres111/))
+- LinkedIn: [Gustavo Torres](https://www.linkedin.com/in/gustavo-torres111/)
 
 ## 🙏 Acknowledgments
 
