@@ -65,4 +65,7 @@ This repository documents my work in:
 **Gustavo Torres**  
 Manufacturing Engineer | M.S. Mechanical Engineering (Controls + Data Science)  
 📧 tgustavo21@gmail.com  
+- GitHub: [@gustavotorres-eng](https://github.com/gustavotorres-eng)
+- LinkedIn: [Gustavo Torres](https://www.linkedin.com/in/gustavo-torres111/)
+
 📍 Dallas, TX  
