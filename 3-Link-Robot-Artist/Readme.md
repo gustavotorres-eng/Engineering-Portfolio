@@ -39,6 +39,12 @@ Where:
 ## 📊 Results
 The controller demonstrates convergence of the tracking error to near-zero. The sliding surface variable $s$ remains bounded, proving the stability of the closed-loop system.
 
+
+
+https://github.com/user-attachments/assets/2b4e689a-bb18-45c2-b1b4-682679f814c3
+
+
+
 ## 🛠 Tech Stack
 * **Language:** Wolfram Language (Mathematica)
 * **Methods:** Symbolic Computation, Numerical Differential Equation Solving (`NDSolve`)
