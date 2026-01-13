@@ -31,7 +31,7 @@ Where:
 1.  Ensure you have **Wolfram Mathematica** installed (Version 12.0+ recommended).
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/gustavotorr/3-Link-Robot-Artist](https://github.com/gustavotorr/Engineering-Portfolio/tree/1b7111fc53b4b4cb3fe0052bf4e344192370be4a/3-Link-Robot-Artist/Code)
+    https://github.com/gustavotorr/Engineering-Portfolio/tree/1b7111fc53b4b4cb3fe0052bf4e344192370be4a/3-Link-Robot-Artist/Code
     
     ```
 3.  Open `src/3-Link-Robot-Artist.nb`.
