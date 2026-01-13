@@ -167,6 +167,12 @@ using Mathematica's `FindRoot` numerical solver to obtain the impact time for ea
 
 <div align="center">
 
+
+
+https://github.com/user-attachments/assets/4af4847c-ee67-41d3-81ef-741fe2b7693d
+
+
+
 ### 🎯 Impact Summary
 
 </div>
