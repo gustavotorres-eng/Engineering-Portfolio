@@ -31,9 +31,10 @@ Where:
 1.  Ensure you have **Wolfram Mathematica** installed (Version 12.0+ recommended).
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/3-DOF-Robot-Controller.git](https://github.com/YourUsername/3-DOF-Robot-Controller.git)
+    git clone [https://github.com/gustavotorr/3-Link-Robot-Artist](https://github.com/gustavotorr/Engineering-Portfolio/tree/1b7111fc53b4b4cb3fe0052bf4e344192370be4a/3-Link-Robot-Artist/Code)
+    
     ```
-3.  Open `src/Robot_SMC_Simulation.nb`.
+3.  Open `src/3-Link-Robot-Artist.nb`.
 4.  Run all cells to generate the derivation, solve the differential equations, and view the animation.
 
 ## 📊 Results
