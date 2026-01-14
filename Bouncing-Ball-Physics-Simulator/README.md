@@ -123,6 +123,8 @@ Jₜ = μ·Jₙ = μ·m·|vᵧ⁻|·(1 + e)
 
 ### Launch Conditions
 
+<div align="center">
+
 | Parameter | Value | Units |
 |-----------|-------|-------|
 | Initial height | 2.5 | m |
@@ -130,6 +132,8 @@ Jₜ = μ·Jₙ = μ·m·|vᵧ⁻|·(1 + e)
 | Vertical velocity | 1.0 | m/s |
 | Gravity | 9.81 | m/s² |
 | Restitution (e) | 0.7 | - |
+
+</div>
 
 ### Starting Positions
 
@@ -185,27 +189,44 @@ This project demonstrates:
 
 ### Real-World Applications
 
-The physics principles apply to:
+<table>
+<tr>
+<td width="50%">
 
 **🏀 Sports Science**
 - Basketball bouncing analysis
 - Ball trajectory prediction
 - Surface friction effects
 
+</td>
+<td width="50%">
+
 **🚗 Vehicle Dynamics**
 - Tire friction modeling
 - Crash simulation
 - Suspension systems
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 **🤖 Robotics**
 - Collision detection
 - Grasp planning
 - Impact force estimation
 
+</td>
+<td width="50%">
+
 **🎮 Game Physics**
 - Realistic ball mechanics
 - Physics engines
 - Collision response
+
+</td>
+</tr>
+</table>
 
 ---
 
