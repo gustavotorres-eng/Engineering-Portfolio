@@ -48,13 +48,13 @@ This simulation demonstrates **why heavier objects don't always travel farther**
 ╔═══════════════════════════════════════════════════════╗
 ║           FINAL HORIZONTAL POSITIONS                  ║
 ╠═══════════════════════════════════════════════════════╣
-║  Mass 1 (0.7 kg, Red):      2.51 m                   ║
-║  Mass 2 (0.7 kg, Green):    3.51 m                   ║
-║  Mass 3 (0.7 kg, Blue):     4.51 m                   ║
-║  Mass 4 (1.5 kg, Magenta):  4.23 m  ← HEAVIER!       ║
+║  Mass 1 (0.7 kg, Red):      2.51 m                    ║
+║  Mass 2 (0.7 kg, Green):    3.51 m                    ║
+║  Mass 3 (0.7 kg, Blue):     4.51 m                    ║
+║  Mass 4 (1.5 kg, Magenta):  4.23 m  ← HEAVIER!        ║
 ╠═══════════════════════════════════════════════════════╣
 ║  Key Finding: Despite being 114% heavier,             ║
-║  Mass 4 travels LESS distance due to 67% more        ║
+║  Mass 4 travels LESS distance due to 67% more         ║
 ║  friction (μ = 0.15 vs 0.09)                          ║
 ╚═══════════════════════════════════════════════════════╝
 ```
@@ -170,55 +170,6 @@ graph LR
 - ✅ **Impulse-based friction** (not force-based approximation)
 - ✅ **Energy tracking** at each bounce
 - ✅ **Sliding/sticking transitions** automatically detected
-
----
-
-## 💻 How to Run
-
-### Requirements
-- Wolfram Mathematica 12.0+
-- No additional packages needed
-
-### Quick Start
-```mathematica
-1. Clone this repository
-2. Open: src/Ball-Projectile-Simulation.nb
-3. Run: Evaluation → Evaluate Notebook
-4. Watch the animation (8 seconds)
-```
-
-### Repository Structure
-```
-bouncing-ball-physics/
-│
-├── 📓 src/
-│   ├── Ball-Projectile-Simulation.nb    # Interactive notebook
-│   └── Ball-Projectile-Simulation.wl    # Standalone script
-│
-├── 📊 media/
-│   └── bouncing_demo.gif                # Animation preview
-│
-└── 📖 README.md                          # This file
-```
-
----
-
-## 🎬 Animation Features
-
-The visualization shows:
-
-### Visual Elements
-- 🔴 **Red/Green/Blue disks** — Light masses (0.7 kg)
-- 🟣 **Magenta disk** — Heavy mass (1.5 kg, visibly larger)
-- **Dashed trails** — Trajectory history
-- ⚫ **Impact markers** — Points where each ball hits the ground
-- 📊 **Brown line** — Ground surface
-
-### Interactive Controls
-- Time range: 0 to 8 seconds
-- Frame rate: 20 FPS
-- Real-time position tracking
-- Synchronized multi-object animation
 
 ---
 
