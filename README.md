@@ -1,71 +1,67 @@
-# 🛠 Gustavo Torres — Engineering Portfolio  
+# 🛠 Engineering Portfolio — Gustavo Torres
 
-**Manufacturing Engineer | M.S. Mechanical Engineering (Dynamic Systems & Controls + Data Science)**  
-Robotics • Control Systems • PLC • Physical AI • Mechanical Design  
+This repository is a **technical archive of my robotics, control systems, and physical AI projects**.
 
-This repository contains a curated portfolio of engineering projects spanning **mechanical design, industrial automation, robotics, and intelligent control systems**.  
-My work focuses on building **real, deployable machines** that integrate **sensors, control theory, and software** to create **smart physical systems**.
+Each project contains:
+- simulation videos  
+- analysis plots  
+- control code  
+- CAD files  
+- and detailed documentation  
 
----
-
-## 👨‍🔬 About Me  
-
-I am a **Manufacturing Engineer** and **M.S. Mechanical Engineering graduate student at SMU** specializing in **Dynamic Systems & Controls** and **Data Science & Machine Learning**.  
-
-My engineering focus is on:
-- Industrial automation  
-- Robotics and mechatronics  
-- Sensor-driven control  
-- Physical AI systems  
-- Manufacturing optimization  
-
-I work at the intersection of **hardware, control theory, and software**, designing systems that **move, sense, and think** 
+This portfolio is designed to demonstrate how I design, simulate, and validate **real-world electromechanical systems** under realistic constraints.
 
 ---
 
-## 🧠 Technical Focus  
+## 🚀 Flagship Projects
 
-### Controls & Automation
-- PID and state-space control  
-- PLC programming (Omron Sysmac, CX-One)  
-- Industrial automation  
-- Real-time sensor feedback  
-
-### Mechanical & CAD
-- SolidWorks (CSWP), AutoCAD, DraftSight  
-- DFM / DFA  
-- Schematics, BOMs, and production drawings  
-
-### Robotics & Physical AI
-- Arduino, Raspberry Pi  
-- Sensors (VL53L0X, RFID, encoders, cameras)  
-- ROS, PyTorch, TensorFlow  
-- Machine learning & computer vision  
-
-### Manufacturing & Analysis
-- Thermal & fluid analysis  
-- Process optimization  
-- Data-driven tuning  
-- Compliance engineering  
+### 🦾 Adaptive Sliding-Mode Control of a 4-DOF Robot Manipulator  
+Nonlinear adaptive control of a robotic arm performing multi-target pick-and-place under payload uncertainty and contact dynamics.  
+📁 `Adaptive-Sliding-Mode-4DOF-Manipulator`
 
 ---
 
-## 📈 Why This Portfolio Exists  
-
-This repository documents my work in:
-- Industrial automation  
-- Robotics  
-- Control systems  
-- Mechanical product engineering
+### ⚽ Mass-Dependent Bouncing Ball Physics Simulator  
+Impulse-based collision and friction model showing how mass alters real-world bounce trajectories.  
+📁 `Bouncing-Ball-Physics-Simulator`
 
 ---
 
-## 📬 Contact  
+### 🎮 Ball-and-Beam PID Controller  
+Real-time embedded control system balancing a ball using distance sensing and servo actuation.  
+📁 `ball-and-beam-pid`
+
+---
+
+## 📂 Repository Structure
+
+Each project folder contains:
+- a project-specific README  
+- videos and animations  
+- plots and analysis results  
+- simulation or firmware code  
+- engineering documentation  
+
+Start with the **flagship projects** above for the most advanced work.
+
+---
+
+## 🧭 How This Portfolio Is Used
+
+This repository is meant to support:
+- job applications  
+- technical interviews  
+- research discussions  
+- and engineering reviews  
+
+Each project can be explored independently, with full context provided inside its folder.
+
+---
+
+## 📬 Contact
+
+If you arrived here from my GitHub profile or LinkedIn and have questions about any project:
 
 **Gustavo Torres**  
-Manufacturing Engineer | M.S. Mechanical Engineering (Controls + Data Science)  
 📧 tgustavo21@gmail.com  
-- GitHub: [@gustavotorr](https://github.com/gustavotorr)
-- LinkedIn: [Gustavo Torres](https://www.linkedin.com/in/gustavo-torres111/)
-
-📍 Dallas, TX  
+💼 LinkedIn: https://www.linkedin.com/in/gustavo-torres111/
