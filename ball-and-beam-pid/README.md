@@ -1,14 +1,12 @@
 <p align="center">
-  <a href="https://github.com/gustavotorr/Engineering-Portfolio/blob/8bc0a8844ca74e32c0fd8d576a938fd4ae183f40/ball-and-beam-pid/Media/Videos/ball_and_beam_pid_demo.mp4">
+  <a href="https://youtu.be/9JrFDMzFvnI">
     <img src="https://github.com/gustavotorr/Engineering-Portfolio/blob/5ac5bbe5fecd9bf43e837780f4e253bbd4ab8b72/ball-and-beam-pid/Media/Photos/ball%20%26%20beam%20pid%20robot.png"
          width="85%"
          style="border-radius:14px;">
   </a>
 </p>
 
-<p align="center"><b>▶ Click image to watch demo video</b></p>
->
-
+<p align="center"><b>▶ Click image to watch demo video on YouTube</b></p>
 
 # Ball-and-Beam PID Controller
 
