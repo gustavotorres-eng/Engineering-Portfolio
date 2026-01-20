@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/gustavotorr/Engineering-Portfolio/blob/5ac5bbe5fecd9bf43e837780f4e253bbd4ab8b72/ball-and-beam-pid/Media/Photos/ball%20%26%20beam%20pid%20robot.png" width="85%" style="border-radius:14px;">
+</p>
+
 # Ball-and-Beam PID Controller
 
 A real-time PID control system that balances a ball on a beam using distance sensing and servo actuation. Features live tuning via joystick interface and OLED display feedback.
